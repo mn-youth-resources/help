@@ -70,9 +70,9 @@
 ------
 
 
-## Changes ##
+## Changes, Additions, Suggestions? ##
 
-know of something you'd like to add?
+Know of something you'd like to add?
 
 - submit a PR,or
-- send a message to <mailto:mn.youth.resources@gmail.com>
+- send a message to <mailto:mn.youth.resources@gmail.com?subject=Suggestion>
