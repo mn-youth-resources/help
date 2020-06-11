@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mn-youth-resources/help/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Bridge for Youth ##
 
-### Markdown
+- <https://ysnmn.org/Shelters>
+- <https://www.bridgeforyouth.org/find-help/>
+- 1111 West 22nd St., Minneapolis, MN 55405
+- Need immediate help: Txt (612)400-SAFE or call (612)377-8800
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Pacer: ##
 
-```markdown
-Syntax highlighted code block
+- <https://www.pacer.org/students/transition-to-life/>
+- 952.838.9000, Toll-free: 800.537.2237
 
-# Header 1
-## Header 2
-### Header 3
+## Ramsey County ##
 
-- Bulleted
-- List
+- <https://www.ramseycounty.us/content/find-food-and-basic-needs-resources-across-ramsey-county>
 
-1. Numbered
-2. List
+## Avenues for Youth ##
 
-**Bold** and _Italic_ and `Code` text
+- <https://avenuesforyouth.org/resources-and-support/>
+- Rosie Benser, call or text Rosie at 612-214-5964
 
-[Link](url) and ![Image](src)
-```
+## Hope For Youth ##
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- https://www.hope4youthmn.org/
+- 24-Hour Crisis Line: 612.849.2561
+- Drop-In Center is open Monday-Friday from 11am - 7pm
+  - 2665 4th Avenue North, Suite 40, Anoka, MN 55303
+  - Northstar Line Route 888
+  - Bus Route 805 & 850
 
-### Jekyll Themes
+## Lutheran Social Services ##
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mn-youth-resources/help/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- <https://www.lssmn.org/services/housing-and-assistance/>
 
-### Support or Contact
+## Youthlink MN ##
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- <https://www.youthlinkmn.org/i-want-help/>
+- 612-252-1200
+
+## Housing Stabilization Services ##
+
+- <https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS-316637>
+
+## Face to Face Youth Support ##
+
+- <https://face2face.org/support/youth/>
+- Youth drop-in center
+- 130 East 7th Street, Saint Paul, MN 55101
+- 651-224-9644
+
+## Ramsey County Adult Crisis ##
+
+- (651) 266-7900
+
+## Diane Ahrens Crisis Residence ##
+
+- <https://www.peopleincorporated.org/venue/diane-ahrens-crisis-residence/>
+- (651) 645-9424
+
+## Urban Boatbuilders ##
+
+- <http://urbanboatbuilders.org/apprenticeships/overview>
+- summer job program **June 5 application deadline**
