@@ -1,5 +1,3 @@
-
-
 ## The Bridge for Youth ##
 
 - <https://ysnmn.org/Shelters>
@@ -7,10 +5,10 @@
 - 1111 West 22nd St., Minneapolis, MN 55405
 - Need immediate help: Txt (612)400-SAFE or call (612)377-8800
 
-## Pacer: ##
+## Youthlink MN ##
 
-- <https://www.pacer.org/students/transition-to-life/>
-- 952.838.9000, Toll-free: 800.537.2237
+- <https://www.youthlinkmn.org/i-want-help/>
+- 612-252-1200
 
 ## Ramsey County ##
 
@@ -34,11 +32,6 @@
 
 - <https://www.lssmn.org/services/housing-and-assistance/>
 
-## Youthlink MN ##
-
-- <https://www.youthlinkmn.org/i-want-help/>
-- 612-252-1200
-
 ## Housing Stabilization Services ##
 
 - <https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS-316637>
@@ -58,6 +51,11 @@
 
 - <https://www.peopleincorporated.org/venue/diane-ahrens-crisis-residence/>
 - (651) 645-9424
+
+## Pacer: ##
+
+- <https://www.pacer.org/students/transition-to-life/>
+- 952.838.9000, Toll-free: 800.537.2237
 
 ## Urban Boatbuilders ##
 
