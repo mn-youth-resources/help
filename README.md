@@ -23,7 +23,7 @@
 
 ## Hope For Youth ##
 
-- https://www.hope4youthmn.org/
+- <https://www.hope4youthmn.org/>
 - 24-Hour Crisis Line: 612.849.2561
 - Drop-In Center is open Monday-Friday from 11am - 7pm
   - 2665 4th Avenue North, Suite 40, Anoka, MN 55303
@@ -63,3 +63,16 @@
 
 - <http://urbanboatbuilders.org/apprenticeships/overview>
 - summer job program **June 5 application deadline**
+
+
+------
+------
+------
+
+
+## Changes ##
+
+know of something you'd like to add?
+
+- submit a PR,or
+- send a message to <mailto:mn.youth.resources@gmail.com>
