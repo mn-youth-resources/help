@@ -11,7 +11,7 @@
 
 - <https://www.youthlinkmn.org/i-want-help/>
 - 612-252-1200
-[Drop-in Center: N. 12th St, Minneapolis, MN](https://www.google.com/maps/place/YouthLink/@44.9764888,-93.2840567,17z/data=!3m1!4b1!4m5!3m4!1s0x52b332eca6d06d8d:0xececd10d01feb75f!8m2!3d44.976485!4d-93.281868?hl=en)
+- [Drop-in Center: N. 12th St, Minneapolis, MN](https://www.google.com/maps/place/YouthLink/@44.9764888,-93.2840567,17z/data=!3m1!4b1!4m5!3m4!1s0x52b332eca6d06d8d:0xececd10d01feb75f!8m2!3d44.976485!4d-93.281868?hl=en)
 
 ## Ramsey County ##
 
