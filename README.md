@@ -2,8 +2,8 @@
 
 ## The Bridge for Youth ##
 
-- <https://ysnmn.org/Shelters>
-- <https://www.bridgeforyouth.org/find-help/>
+- [Shelters](https://ysnmn.org/Shelters)
+- [find help](https://www.bridgeforyouth.org/find-help/)
 - 1111 West 22nd St., Minneapolis, MN 55405
 - Need immediate help: Txt (612)400-SAFE or call (612)377-8800
 
@@ -15,7 +15,7 @@
 
 ## Ramsey County ##
 
-- <https://www.ramseycounty.us/content/find-food-and-basic-needs-resources-across-ramsey-county>
+- [find food and basic needs across Ramsey county](https://www.ramseycounty.us/content/find-food-and-basic-needs-resources-across-ramsey-county)
 
 ## Avenues for Youth ##
 
@@ -33,11 +33,11 @@
 
 ## Lutheran Social Services ##
 
-- <https://www.lssmn.org/services/housing-and-assistance/>
+- [housing and assistance](https://www.lssmn.org/services/housing-and-assistance/)
 
 ## Housing Stabilization Services ##
 
-- <https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS-316637>
+- [DHS housing stabalization](https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS-316637)
 
 ## Face to Face Youth Support ##
 
@@ -52,18 +52,17 @@
 
 ## Diane Ahrens Crisis Residence ##
 
-- <https://www.peopleincorporated.org/venue/diane-ahrens-crisis-residence/>
+- [Crisis Residence](https://www.peopleincorporated.org/venue/diane-ahrens-crisis-residence/)
 - (651) 645-9424
 
 ## Pacer: ##
 
-- <https://www.pacer.org/students/transition-to-life/>
+- [Transition to Life](https://www.pacer.org/students/transition-to-life/)
 - 952.838.9000, Toll-free: 800.537.2237
 
 ## Urban Boatbuilders ##
 
-- <http://urbanboatbuilders.org/apprenticeships/overview>
-- summer job program **June 5 application deadline**
+- [apprenticeships](http://urbanboatbuilders.org/apprenticeships/overview)
 
 
 ------
