@@ -3,7 +3,7 @@
 ## The Bridge for Youth ##
 
 - [Shelters](https://ysnmn.org/Shelters)
-- [find help](https://www.bridgeforyouth.org/find-help/)
+- [Find Help](https://www.bridgeforyouth.org/find-help/)
 - 1111 West 22nd St., Minneapolis, MN 55405
 - Need immediate help: Txt (612)400-SAFE or call (612)377-8800
 
@@ -15,11 +15,11 @@
 
 ## Ramsey County ##
 
-- [find food and basic needs across Ramsey county](https://www.ramseycounty.us/content/find-food-and-basic-needs-resources-across-ramsey-county)
+- [Find food and basic needs across Ramsey county](https://www.ramseycounty.us/content/find-food-and-basic-needs-resources-across-ramsey-county)
 
 ## Avenues for Youth ##
 
-- <https://avenuesforyouth.org/resources-and-support/>
+- [Resource and Support](https://avenuesforyouth.org/resources-and-support/)
 - Rosie Benser, call or text Rosie at 612-214-5964
 
 ## Hope For Youth ##
@@ -33,11 +33,11 @@
 
 ## Lutheran Social Services ##
 
-- [housing and assistance](https://www.lssmn.org/services/housing-and-assistance/)
+- [Housing and Assistance](https://www.lssmn.org/services/housing-and-assistance/)
 
 ## Housing Stabilization Services ##
 
-- [DHS housing stabalization](https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS-316637)
+- [DHS Housing Services](https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&RevisionSelectionMethod=LatestReleased&dDocName=DHS-316637)
 
 ## Face to Face Youth Support ##
 
@@ -62,7 +62,7 @@
 
 ## Urban Boatbuilders ##
 
-- [apprenticeships](http://urbanboatbuilders.org/apprenticeships/overview)
+- [Apprenticeships](http://urbanboatbuilders.org/apprenticeships/overview)
 
 
 ------
