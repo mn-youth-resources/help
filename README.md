@@ -15,7 +15,7 @@
 
 ## The Link ##
 
-- https://thelinkmn.org/
+- [thelinkmn.org](https://thelinkmn.org)
 - [Housing resources](https://thelinkmn.org/housing/)
 
 ## Ramsey County ##
