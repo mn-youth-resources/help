@@ -69,6 +69,10 @@
 
 - [Apprenticeships](http://urbanboatbuilders.org/apprenticeships/overview)
 
+## Job Corps ##
+
+- <https://huberthhumphrey.jobcorps.gov/>
+- 800-733-5627
 
 ------
 ------
