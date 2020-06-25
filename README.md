@@ -83,5 +83,5 @@
 
 Know of something you'd like to add?
 
-- submit a PR,or
-- send a message to [mn.youth.resources@gmail.com](mailto:mn.youth.resources@gmail.com?subject=Suggestion)
+- submit a PR
+- or send a message to [mn.youth.resources@gmail.com](mailto:mn.youth.resources@gmail.com?subject=Suggestion)
