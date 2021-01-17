@@ -1,8 +1,15 @@
 # Housing (and other resources) for Young Adults in Minnesota #
 
-## The Bridge for Youth ##
+## ReEntry House ##
 
-- [Shelters](https://ysnmn.org/Shelters)
+- [Supportive Housing Program](http://reentryhouse.org/treatment-and-programs/supportive-housing-program/)
+- 5812 Lyndale Avenue South, Minneapolis MN 55419
+- (612) 243-4124
+- [All Programs](https://reentryhouse.org/treatment-and-programs/)
+
+## Youth Services Network (aka The Bridge for Youth) ##
+
+- [List of Shelters](https://ysnmn.org/Shelters)
 - [Find Help](https://www.bridgeforyouth.org/find-help/)
 - 1111 West 22nd St., Minneapolis, MN 55405
 - Need immediate help: Txt (612)400-SAFE or call (612)377-8800
