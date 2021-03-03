@@ -7,6 +7,12 @@
 - (612) 243-4124
 - [All Programs](https://reentryhouse.org/treatment-and-programs/)
 
+## Wellspring Second Chance Center##
+
+- <https://wellspringmn.org/>
+- 2100 Plymouth Avenue North, Minneapolis, MN 55411
+- 612-296-2895
+
 ## Youth Services Network (aka The Bridge for Youth) ##
 
 - [List of Shelters](https://ysnmn.org/Shelters)
