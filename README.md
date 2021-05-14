@@ -1,5 +1,11 @@
 # Housing (and other resources) for Young Adults in Minnesota #
 
+## Face to Face Youth Drop in Center ##
+
+- [Youth drop-in center](https://face2face.org/support/youth/)
+- 130 East 7th Street, Saint Paul, MN 55101
+- (651) 224-9644
+
 ## ReEntry House ##
 
 - [Supportive Housing Program](http://reentryhouse.org/treatment-and-programs/supportive-housing-program/)
