@@ -1,5 +1,9 @@
 # Housing (and other resources) for Young Adults in Minnesota #
 
+[Young Adults in the Justice System](young-adults-justice-system.pdf);
+from Department of Community Corrections & Rehabilitation Office of Policy, Planning, and Evaluation
+
+
 ## Face to Face ##
 
 - [Youth drop-in center](https://face2face.org/support/youth/)
